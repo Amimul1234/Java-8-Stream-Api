@@ -1,0 +1,3 @@
+# Java-8-Stream-Api
+Java stream api practices
+This is just for personal practicing java stream Api..... 
