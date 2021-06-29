@@ -9,6 +9,8 @@ import java.util.stream.Collectors;
 import static stream.Gender.FEMALE;
 import static stream.Gender.MALE;
 
+
+//Stream is functional. Doesn't modify source
 //Few methods in stream Api:
 
 //Filter
